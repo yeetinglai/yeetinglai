@@ -1,0 +1,156 @@
+@charset "utf-8";
+/* CSS Document */
+.header{
+	/*border:1px solid #f1f1f1;*/
+	width:90%; 
+	height:150px; 
+	background-color:#66d9ff; 
+	margin-left:5%;
+	/*text-align:center;*/
+}
+.header img{
+	width:20%;
+	height:150px;
+	
+}
+.nav{
+	/*border:1px solid #f1f1f1; */
+	width:90%; 
+	height:60px; 
+	margin-left:5%;
+	background-color:#77ddff; 
+	/*text-align:center;*/
+}
+
+.zhong{
+	/*border:2px solid red; */
+	width:90%; 
+	height:1886px; 
+	margin-left:5%; 
+	margin-top:50px;
+	background-color: #33ccff;
+}
+.m0   {
+	
+	width:20%; 
+	height:1842px; 
+	background-color:#77ddff;
+	margin-top:20px;
+	margin-left:2%; 
+	float:left;
+	text-align:center;
+}
+.m0 img{
+	width:100%; 
+	height:201px; 
+}
+.m0 ul{
+	list-style-type:square;
+	list-style-image:url(example.gif);
+	list-style-position:inside;
+	list-style:none;
+	float:left;
+	line-height:35px;
+	margin-left:10px;
+	width:90%;
+	height:30px;
+}
+.m0 ul li a{
+	text-decoration:none;
+	font-size:20px;
+	color:	 #000000;
+	font-family:"楷体";
+}
+.m0 ul li a:hover{
+	color:#8c1aff;
+}
+.m1   {
+	width:50%;
+	height:600px; 
+	background-color:#ccf2ff;
+	margin-top:20px; 
+	margin-right:2%; 
+	float:right;
+	text-align:left;
+}
+.m1 ul{
+	list-style-type:square;
+	list-style-image:url(example.gif);
+	list-style-position:inside;
+	list-style:none;
+	float:left;
+	line-height:35px;
+	margin-left:10px;
+	width:90%;
+	height:30px;
+}
+.m1 ul li a{
+	text-decoration:none;
+	font-size:20px;
+	color:	 #000000;
+	font-family:"楷体";
+}
+.m1 ul li a:hover{
+	color:#8c1aff;
+}
+.m2 {
+	width:21%;
+	height:600px; 
+	background-color:#ccf2ff;
+	margin-top:20px; 
+	margin-left:2%; 
+	float:left;
+	text-align:left;
+}
+.m2 ul{
+	list-style-type:square;
+	list-style-image:url(example.gif);
+	list-style-position:inside;
+	list-style:none;
+	line-height:35px;
+	margin-left:2%;
+	float:left;
+	width:470px;
+	height:30px;
+}
+.m2 ul li a{
+	text-decoration:none;
+	font-size:20px;
+	color:	 #000000;
+	font-family:"楷体";
+}
+.m2 ul li a:hover{
+	color:#8c1aff;
+}
+.biaoti{
+	border-radius:0px 10px 10px 0px;
+	color:#FFF;
+	background-color:#FF8888;
+	width:220px;
+	height:30px;
+	padding-top:8px;
+	font-size:20px;
+	font-family:"楷体";
+}
+.huoli{
+	color:#FFF;
+	font-size:16px;
+	font-weight:bolder;
+	width:220px;
+	height:40px;
+	background-color:#FF8888;
+	border-radius:0px 10px 10px 0px;
+	padding-left:30px;
+	line-height:40px;
+}
+
+.xia{
+	/*border:2px solid #E2FFCA; */
+	width:90%;
+	height:80px; 
+	background-color: #77ddff; 
+	margin-left:5%;
+	margin-top:10px;
+	font-size:20px;
+	font-family:"楷体";
+}
